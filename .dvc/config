@@ -1,0 +1,4 @@
+[core]
+    remote = mlflow-experiment
+['remote "mlflow-experiment"']
+    url = s3://crash-detection-boluo
